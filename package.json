@@ -1,0 +1,29 @@
+{
+  "name": "test_automation_cypress",
+  "version": "1.0.0",
+  "description": "MVP_Easy With Cypress",
+  "homepage": "https://github.com/SheikhAmin/Mvp_Easy_Cypress#readme",
+  "bugs": {
+    "url": "https://github.com/SheikhAmin/Mvp_Easy_Cypress/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheikhAmin/Mvp_Easy_Cypress.git"
+  },
+  "license": "ISC",
+  "author": "Md.Sheikh Amin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mssql": "^11.0.1"
+  },
+  "devDependencies": {
+    "@types/mssql": "^9.1.7",
+    "cypress": "^14.3.3",
+    "cypress-sql-server": "^1.0.0",
+    "typescript": "^5.8.3"
+  }
+}
