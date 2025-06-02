@@ -1,4 +1,4 @@
-import { Common } from "../../pom/Common";
+import { Common } from "../../common/Common";
 import { DealerRegistration } from "../../pom/DealerRegistration";
 
 
